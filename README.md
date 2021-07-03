@@ -1,6 +1,6 @@
 # Landing Page - Kota Jakarta
 
-Project pertama yang saya buat setelah mengikuti beasiswa IDCamp - DiCoding. Kelas Belajar Dasar Pemrograman Web. <br>
+Project pertama yang saya buat setelah mengikuti beasiswa IDCamp - DiCoding yaitu Kelas Belajar Dasar Pemrograman Web. <br>
 Website Landing Page ini sudah responsive untuk semua perangkat (Laptop, Tablet, Smartphone).
 
 ### Built With
