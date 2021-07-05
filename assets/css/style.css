@@ -107,7 +107,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 585px) {
+@media screen and (max-width: 768px) {
     nav li {
         margin-right: 5px;
     }
@@ -116,7 +116,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 320px){
     nav a {
         font-size: 12px;
     }
