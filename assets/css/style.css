@@ -125,8 +125,11 @@ footer {
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 410px){
+    nav li {
+        margin-right: 5px;
+    }
     nav a {
-        font-size: 12px;
+        font-size: 10px;
     }
 }
