@@ -1,7 +1,7 @@
 # Landing Page - Kota Jakarta
 
 Project pertama yang saya buat setelah mengikuti beasiswa IDCamp - DiCoding yaitu Kelas Belajar Dasar Pemrograman Web. <br>
-Website Landing Page ini sudah responsive untuk semua perangkat (Laptop, Tablet, Smartphone).
+Website Landing Page ini sudah responsive untuk semua perangkat (Laptop, Tablet, dan Smartphone).
 
 ## Built With
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
